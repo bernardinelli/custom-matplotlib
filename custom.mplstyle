@@ -1,8 +1,11 @@
 #lines
-lines.linewidth     : 1.5
+lines.linewidth     : 2
 lines.linestyle     : -  
 lines.color         : black
- 
+#sets, among other things, the linewidth in a histogram
+patch.linewidth		: 2
+
+
 #fonts & text
 font.family         : serif
 font.weight         : bold
@@ -50,3 +53,4 @@ legend.fancybox      : True
 #figure
 figure.titlesize : xx-large
 figure.figsize   : 10, 8 
+figure.facecolor : 1
