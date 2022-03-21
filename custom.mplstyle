@@ -41,7 +41,7 @@ ytick.minor.width    : 1.0
 ytick.major.width    : 1.0
 ytick.minor.visible  : True  
 
-axes.prop_cycle      : cycler('color',['xkcd:cerulean blue', 'xkcd:scarlet', 'xkcd:dark green', 'xkcd:light orange', 'xkcd:lighter purple', 'xkcd:bright aqua', 'xkcd:dirt brown', 'xkcd:gunmetal', 'xkcd:dark hot pink', 'xkcd:very dark brown'])
+axes.prop_cycle      : cycler('color',['xkcd:cerulean blue', 'xkcd:scarlet', 'xkcd:grass green', 'xkcd:light orange', 'xkcd:lighter purple', 'xkcd:bright aqua', 'xkcd:dirt brown', 'xkcd:gunmetal', 'xkcd:dark hot pink', 'xkcd:very dark brown'])
 
 #legends
 legend.numpoints     : 1
